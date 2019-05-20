@@ -1,8 +1,4 @@
-.title {
-	text-align: center;
-	font-size: 40px;
-	font-family: 'Arvo', serif;
-}
+
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
@@ -34,3 +30,8 @@ body{
 }
 
 /* scroll down to see the fixed header in action! */
+.title {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Arvo', serif;
+}
