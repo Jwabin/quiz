@@ -1,1 +1,1 @@
-Dit is een verhaal waar jezelf keuzes kan maken die het verhaal achteraf ook beïnvloedt.
+Dit is een quiz  met allemaal vragen over verschillende categoriën
