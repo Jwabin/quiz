@@ -9,11 +9,19 @@
   <div class="header">
 	<h1 class="title">Quiz</h1>
   </div>
-  <div class="idk">
 	<form id="quiz" name "quiz">
-	
+		
 	<p>Wat is de hoofstad van België?</p>
 	<input id="textbox" type="text" name="question1">
+		
+	<p>Wat is de hoofdstad van Nederland?</p>
+	<input type="radio" id="mc" name="question2" value="Amsterdam">Amsterdam<br>
+	<input type="radio" id="mc" name="question2" value="Rotterdam">Rotterdam<br>
+		
+	<p>Wat is de hoofdstad van Duitsland?</p>
+	<input type="radio" id="mc" name="question3" value="Frankfurt">Frankfurt<br>
+	<input type="radio" id="mc" name="question3" value="Berlijn">Berlijn<br>
+		
+	<input id="button" type="button" value="Ik ben klaar" oneclick="check(),">
 	</form>
-  </div>
 </body>
