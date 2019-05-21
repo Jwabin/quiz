@@ -1,3 +1,3 @@
 function check(){
-        alert("Je hebt gewonnen!")    
+        document.getElementById("after_submit").style.visibility="visible";  
 }
