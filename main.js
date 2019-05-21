@@ -14,5 +14,5 @@ function check(){
         	correct++;
 }
         document.getElementById("after_submit").style.visibility = "visible";
-	doumment.getElementById("number_correct").innerHTML = "Jij hebt" + correct + "het juist";
+	doumment.getElementById("number_correct").innerHTML = "You got" + correct + "correct.";
 }
