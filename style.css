@@ -1,6 +1,9 @@
 body{
 	height: 1500px;
 }
+#quiz {
+	margin-top: 40px;
+}
 .header{
 	position: fixed;
 	width: 100%;
@@ -14,6 +17,4 @@ body{
 	font-size: 40px;
 	font-family: 'Arvo', serif;
 }
-#quiz {
-	margin-top: 40px;
-}
+
