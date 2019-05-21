@@ -1,8 +1,8 @@
 body{
 	height: 1500px;
 }
-#quiz {
-	margin-top: 40px;
+#after_submit {
+	visibility: hidden;
 }
 .header{
 	position: fixed;
