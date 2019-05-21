@@ -1,3 +1,3 @@
 function check(){
-        alert("Je hebt gewonnen!)    
+        alert("Je hebt gewonnen!")    
 }
